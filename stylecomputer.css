@@ -1,0 +1,57 @@
+body {
+    background-color: darkgray;
+}
+
+.title {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.spelers {
+    margin-top: 150px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-evenly;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.playereen {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.foto {
+    width: 100px;
+}
+
+input [type="radio"] {
+    display: none;
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.playertwee {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.showbutton {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.playerwin {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
